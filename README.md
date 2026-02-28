@@ -46,6 +46,6 @@
 
 <p align="left">
   <a href="https://github.com/piyushmahajan7">
-    <img src="https://github-readme-stats.vercel.app/api?username=piyushmahajan7&show_icons=true&theme=nord" alt="piyushmahajan7's GitHub stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=piyushmahajan7&show_icons=true&theme=nord" alt="piyushmahajan7's GitHub stats" />
   </a>
 </p>
