@@ -5,12 +5,12 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=piyushmahajan7&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="piyushmahajan7" />
+  <img src="https://komarev.com/ghpvc/?username=piyushmahajan7&label=Profile%20views&color=0e75b6&style=flat" alt="piyushmahajan7" />
 </p>
 
 <p align="left">
   <a href="https://github.com/piyushmahajan7">
-    <img src="https://img.shields.io/github/followers/piyushmahajan7?label=FOLLOW&amp;style=social" alt="Follow @piyushmahajan7" />
+    <img src="https://img.shields.io/github/followers/piyushmahajan7?label=FOLLOW&style=social" alt="Follow @piyushmahajan7" />
   </a>
 </p>
 
@@ -26,8 +26,9 @@
 
 ### Connect with me:
 <p align="left">
-<a href="mailto:piyushmahajan.cse@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" height="30" /></a>
-<a href="https://github.com/piyushmahajan7" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" height="30" /></a>
+<a href="https://www.linkedin.com/in/piyushmahajan7/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" /></a>
+<a href="mailto:piyushmahajan.cse@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" /></a>
+<a href="https://github.com/piyushmahajan7" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30" /></a>
 </p>
 
 ### Languages and Tools:
@@ -35,9 +36,9 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="excel" width="38" height="38"/> </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="powerbi" width="40" height="40"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+  <a href="https://microsoft.com/excel" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg" alt="excel" width="40" height="40"/> </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="powerbi" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
@@ -45,6 +46,6 @@
 
 <p align="left">
   <a href="https://github.com/piyushmahajan7">
-    <img src="https://github-readme-stats.vercel.app/api?username=piyushmahajan7&amp;show_icons=true&amp;theme=nord" alt="piyushmahajan7's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=piyushmahajan7&show_icons=true&theme=nord" alt="piyushmahajan7's GitHub stats" />
   </a>
 </p>
