@@ -1,3 +1,7 @@
+<a href="https://github.com/piyushmahajan7">
+  <img src="banner.png" alt="Data Science Banner" width="100%">
+</a>
+
 <h1 align="center">Hi 👋, I'm Piyush Mahajan</h1>
 
 <p align="center">
