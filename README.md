@@ -5,12 +5,12 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=piyushmahajan7&label=Profile%20views&color=0e75b6&style=flat" alt="piyushmahajan7" />
+  <img src="https://komarev.com/ghpvc/?username=piyushmahajan7&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="piyushmahajan7" />
 </p>
 
 <p align="left">
   <a href="https://github.com/piyushmahajan7">
-    <img src="https://img.shields.io/github/followers/piyushmahajan7?label=FOLLOW&style=social" alt="Follow @piyushmahajan7" />
+    <img src="https://img.shields.io/github/followers/piyushmahajan7?label=FOLLOW&amp;style=social" alt="Follow @piyushmahajan7" />
   </a>
 </p>
 
@@ -37,8 +37,8 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://microsoft.com/excel" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg" alt="excel" width="40" height="40"/> </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="powerbi" width="40" height="40"/> </a>
+  <a href="https://microsoft.com/excel" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40"/> </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="powerbi" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
@@ -46,6 +46,6 @@
 
 <p align="left">
   <a href="https://github.com/piyushmahajan7">
-    <img src="https://github-readme-stats.vercel.app/api?username=piyushmahajan7&show_icons=true&theme=nord" alt="piyushmahajan7's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=piyushmahajan7&amp;show_icons=true&amp;theme=nord" alt="piyushmahajan7's GitHub stats" />
   </a>
 </p>
