@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm Piyush Mahajan</h1>
 
 <p align="center">
-  <b>BTech student in Artificial Intelligence & Data Science with a strong interest in Data Analysis and Machine Learning. I enjoy working with real-world datasets and building practical projects to improve my skills. Always learning, always exploring!</b>
+  <b>BTech student in Artificial Intelligence & Data Science with a strong interest in Data Analysis and Machine Learning. I work with Python and data science tools to explore datasets, perform data preprocessing, and build machine learning models. I enjoy working with real-world datasets and building practical projects to improve my skills. Always learning, always exploring!</b>
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=piyushmahajan7&label=Profile%20views&color=0e75b6&style=flat" alt="piyushmahajan7" />
+  <img src="https://komarev.com/ghpvc/?username=piyushmahajan7&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="piyushmahajan7" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/piyushmahajan7">
+    <img src="https://img.shields.io/github/followers/piyushmahajan7?label=FOLLOW&amp;style=social" alt="Follow @piyushmahajan7" />
+  </a>
 </p>
 
 <a href="https://github.com/piyushmahajan7">
-  <img align="right" src="https://cdni.iconscout.com/illustration/premium/thumb/data-analysis-4620406-3833075.png" width="400" alt="Data Analysis Illustration"/>
+  <img align="right" src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-3454628-2918517.png" width="400" alt="Developer Illustration"/>
 </a>
 
 - 🔭 **I'm currently focusing on** Data Cleaning, EDA, Machine Learning Model Building, and Model Evaluation.
@@ -18,21 +24,27 @@
 
 <br />
 
+### Connect with me:
+<p align="left">
+<a href="mailto:piyushmahajan.cse@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" height="30" /></a>
+<a href="https://github.com/piyushmahajan7" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" height="30" /></a>
+</p>
+
 ### Languages and Tools:
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="38" height="38"/> </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="scikit_learn" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="excel" width="38" height="38"/> </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="powerbi" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
 </p>
 
-<!-- GitHub Stats -->
+<br />
+
 <p align="left">
   <a href="https://github.com/piyushmahajan7">
-    <img src="https://github-readme-stats.vercel.app/api?username=piyushmahajan7&show_icons=true&theme=nord" alt="piyushmahajan7's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=piyushmahajan7&amp;show_icons=true&amp;theme=nord" alt="piyushmahajan7's GitHub stats" />
   </a>
 </p>
