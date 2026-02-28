@@ -1,7 +1,3 @@
-<a href="https://github.com/piyushmahajan7">
-  <img src="banner.png" alt="Data Science Banner" width="100%">
-</a>
-
 <h1 align="center">Hi 👋, I'm Piyush Mahajan</h1>
 
 <p align="center">
@@ -50,6 +46,6 @@
 
 <p align="left">
   <a href="https://github.com/piyushmahajan7">
-    <img src="https://github-readme-stats.vercel.app/api?username=piyushmahajan7&amp;show_icons=true&amp;theme=nord" alt="piyushmahajan7's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=piyushmahajan7&show_icons=true&theme=nord" alt="piyushmahajan7's GitHub stats" />
   </a>
 </p>
