@@ -27,7 +27,7 @@
 ### Connect with me:
 <p align="left">
 <a href="https://portfolio-main-virid-nu.vercel.app" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" height="30" /></a>
-<a href="https://www.linkedin.com/in/piyushmahajan7/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" /></a>
+<a href="https://www.linkedin.com/in/piyush-mahajan7/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" /></a>
 <a href="mailto:piyushmahajan.cse@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" /></a>
 <a href="https://github.com/piyushmahajan7" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30" /></a>
 </p>
