@@ -19,8 +19,8 @@
 </a>
 
 - 🔭 **I'm currently focusing on** Data Cleaning, EDA, Machine Learning Model Building, and Model Evaluation.
-- 🌱 **I’m currently building** practical projects to improve my machine learning and data analysis skills.
-- 💬 **Ask me about** Python, Pandas, NumPy, Scikit-learn, Excel, and Power BI.
+- 🌱 **I’m currently building** practical projects to improve my machine learning and data analysis skills, and exploring **Deep Learning**.
+- 💬 **Ask me about** Python, Pandas, NumPy, Scikit-learn, Excel, Power BI, and **NLP (Natural Language Processing)**.
 
 <br />
 
@@ -40,6 +40,9 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
   <a href="https://microsoft.com/excel" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40"/> </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="powerbi" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+  <a href="https://www.nltk.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/language.png" alt="nltk" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
